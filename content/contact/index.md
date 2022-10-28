@@ -1,6 +1,6 @@
 ---
-title: 'Get In Touch'
-buttonText: 'Mail Me'
+title: 'Drop a line'
+buttonText: 'Ping Me'
 ---
 
-My inbox is always open. Whether you have a question or just want to say hello, I'll try my best to get back to you! Feel free to mail me about any relevant job updates.
+I constantly have email open. I will do my best to get back to you whether you have a question or are just looking to say hey.
