@@ -7,14 +7,12 @@ import {
   IconFolder,
   IconFork,
   IconGitHub,
-  IconInstagram,
   IconLinkedin,
   IconLoader,
   IconLocation,
   IconLogo,
   IconPlayStore,
   IconStar,
-  IconTwitter,
   IconZap,
 } from '@components/icons';
 
@@ -32,8 +30,6 @@ const FormattedIcon = ({ name }) => {
       return <IconFork />;
     case 'GitHub':
       return <IconGitHub />;
-    case 'Instagram':
-      return <IconInstagram />;
     case 'Linkedin':
       return <IconLinkedin />;
     case 'Loader':
@@ -46,8 +42,6 @@ const FormattedIcon = ({ name }) => {
       return <IconPlayStore />;
     case 'Star':
       return <IconStar />;
-    case 'Twitter':
-      return <IconTwitter />;
     case 'Zap':
       return <IconZap />;
     default:

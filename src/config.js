@@ -10,7 +10,6 @@ module.exports = {
   location: 'Delhi, India',
   email: 'abhishekvayam9@gmail.com',
   github: 'https://github.com/abhishekvayam',
-  twitterHandle: '@Abhishekv13',
   socialMedia: [
     {
       name: 'GitHub',
@@ -23,15 +22,7 @@ module.exports = {
     {
       name: 'Medium',
       url: 'https://medium.com/@abhishekvayam9',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/glass0fbeer',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/AbhishekV13',
-    },
+    },    
   ],
 
   navLinks: [
