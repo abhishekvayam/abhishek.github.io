@@ -106,7 +106,7 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Designed &amp; Built by Abhishek Vayam<br></br>
+            Thanks  &amp; Amanda for this beautifual site<br></br>
             
           </div>
 
